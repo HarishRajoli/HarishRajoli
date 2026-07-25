@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi 👋, I'm Harish Rajoli
 
-<!--
-**HarishRajoli/HarishRajoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electronics and Communication Engineering (ECE) Student
 
-Here are some ideas to get you started:
+🚀 Passionate about Embedded Systems, IoT, Robotics, and Automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 B.E. in Electronics and Communication Engineering
+- 🌱 Currently working on a Smart Farming Robot using Raspberry Pi 5
+- 💻 Learning C, Python, and Embedded Systems
+- 🔧 Interested in IoT, Raspberry Pi, ESP32, STM32 and Automation
+- 📚 Continuously improving my programming and hardware skills
+
+## 🛠️ Skills
+
+- C Programming
+- Python
+- Embedded C
+- Raspberry Pi
+- ESP32
+- STM32
+- Arduino
+- Git & GitHub
+- Arduino IDE
+- VS Code
+
+## 🚀 Projects
+
+### 🌱 Smart Farming Robot
+- Raspberry Pi 5
+- Live Camera Streaming
+- Soil Moisture Monitoring
+- Temperature & Humidity Monitoring
+- Automatic Irrigation
+- Blynk IoT Dashboard
+
+### 💧 Smart Humidity Control System
+- ESP32
+- DHT11
+- Relay Module
+- Ultrasonic Humidifier
+
+## 📜 Certifications
+
+- NPTEL Certification
+
+## 📫 Connect with Me
+
+- 📧 Email: hvrajoli22@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/harishrajoli
+
+⭐ Thanks for visiting my GitHub profile!
