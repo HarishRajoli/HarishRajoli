@@ -42,8 +42,8 @@
 - Ultrasonic Humidifier
 
 ## 📜 Certifications
-
 - NPTEL Certification
+- Online Internship on EMBEDDED SYSTEMS 
 
 ## 📫 Connect with Me
 
