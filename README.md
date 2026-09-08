@@ -17,23 +17,26 @@
 - C Programming
 - Python
 - Embedded C
-- Raspberry Pi
 - ESP32
 - STM32
 - Arduino
-- Git & GitHub
 - Arduino IDE
 - VS Code
 
 ## 🚀 Projects
 
-### 🌱 Smart Farming Robot
-- Raspberry Pi 5
-- Live Camera Streaming
-- Soil Moisture Monitoring
-- Temperature & Humidity Monitoring
-- Automatic Irrigation
-- Blynk IoT Dashboard
+### 🌱 Smart Farming Robot For Pesticide Spraying And Monitoring
+- 2 × ESP32
+- 1 × ESP32-S3 N16R8
+- 2 × BTS7960 Motor Driver
+- 4 × 12V 60 RPM Johnson Gear Motors
+- ESP32-CAM
+- Servo Motor
+- Ultrasonic sensor
+- 12V Battery
+- 12V to 5V Converter
+- Pesticide Pump/Sprayer
+- WEB DASHBOARD
 
 ### 💧 Smart Humidity Control System
 - ESP32
@@ -43,6 +46,7 @@
 
 ## 📜 Certifications
 - NPTEL Certification
+- C Programming
 - Online Internship on EMBEDDED SYSTEMS 
 
 ## 📫 Connect with Me
