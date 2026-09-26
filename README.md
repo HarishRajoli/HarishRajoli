@@ -27,7 +27,6 @@
 
 ### 🌱 Smart Farming Robot For Pesticide Spraying And Monitoring
 - 2 × ESP32
-- 1 × ESP32-S3 N16R8
 - 2 × BTS7960 Motor Driver
 - 4 × 12V 60 RPM Johnson Gear Motors
 - ESP32-CAM
@@ -38,20 +37,31 @@
 - Pesticide Pump/Sprayer
 - WEB DASHBOARD
 
-### 💧 Smart Humidity Control System
-- ESP32
+### 💧 Automated Humidifier
+- Arduino UNO
 - DHT11
 - Relay Module
-- Ultrasonic Humidifier
+- Humidifier model
+
+- ### 🌱 Smart Greenhouse Monitoring System
+- ESP32
+- DHT11
+- LDR
+- Relay
+- LED
+- Fan
+- Water Pump
+- Blynk app for monitoring/control
 
 ## 📜 Certifications
 - NPTEL Certification
 - C Programming
+- PCB Design workshop
 - Online Internship on EMBEDDED SYSTEMS 
 
 ## 📫 Connect with Me
 
-- 📧 Email: hvrajoli22@gmail.com
+- 📧 Email: harishrajoli6@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/harishrajoli
 
 ⭐ Thanks for visiting my GitHub profile!
