@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 B.E. in Electronics and Communication Engineering
-- 🌱 Currently working on a Smart Farming Robot using Raspberry Pi 5
+- 🌱 Currently working on a Smart Farming Robot using ESP32
 - 💻 Learning C, Python, and Embedded Systems
 - 🔧 Interested in IoT, Raspberry Pi, ESP32, STM32 and Automation
 - 📚 Continuously improving my programming and hardware skills
